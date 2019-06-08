@@ -7,5 +7,6 @@ My Home : Trat
 
 My work place : Bangkok
 
+Line Display : Chitsanuphong
 
 
