@@ -5,7 +5,7 @@ Name : Chitsanuphong Thaninthorn
 
 My Home : Trat
 
-My work place : Bangkok
+My work place : Srinakarin
 
 Line Display : Chitsanuphong
 
