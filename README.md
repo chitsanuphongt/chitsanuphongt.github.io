@@ -1,12 +1,12 @@
 ## Welcome to Chitsanuphongt.io
 ![Mypic](153204.jpg)
 
-Name : Chitsanuphong Thaninthorn
+* Name : Chitsanuphong Thaninthorn
 
-My Home : Trat
+* My Home : Trat
 
-My work place : Srinakarin
+* My work place : Srinakarin
 
-Line Display : Chitsanuphong
+* Line Display : Chitsanuphong
 
 
