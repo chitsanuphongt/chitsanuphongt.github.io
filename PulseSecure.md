@@ -20,4 +20,4 @@ Pulse Secure มาจากกลุ่มผลิตภัณฑ์ SSL VPN/N
 ![Mypic](PulseSecure/PS5.jpg)
 
  * จะปรากฏข้อมูลการเชื่อมต่อสำเร็จดังรูป
-![Mypic](PulseSecure/PS6.jpg)
+![Mypic](PulseSecure/PS6.png)
