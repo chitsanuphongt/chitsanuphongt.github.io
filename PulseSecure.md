@@ -26,10 +26,12 @@ Pulse Secure มาจากกลุ่มผลิตภัณฑ์ SSL VPN/N
  
 ![Mypic](PulseSecure/PS4.jpg)
 
- * กรอก Secondary Password ที่ได้จาก Token 
+ * กรอก Secondary Password ที่ได้จาก Token และกด Connect
  
 ![Mypic](PulseSecure/PS5.jpg)
 
  * จะปรากฏข้อมูลการเชื่อมต่อสำเร็จดังรูป
  
 ![Mypic](PulseSecure/PS6.png)
+
+
