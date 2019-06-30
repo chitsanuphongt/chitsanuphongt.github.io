@@ -14,6 +14,5 @@ Pulse Secure มาจากกลุ่มผลิตภัณฑ์ SSL VPN/N
 ![Mypic](PulseSecure/PS1.jpg)
 ![Mypic](PulseSecure/PS2.jpg)
 
- * กด Connect และใส่ข้อมูล Usernam & Password และ กด Connect
-![Mypic](PulseSecure/PS3.jpg)
-![Mypic](PulseSecure/PS4.jpg)
+ * กด Connect และใส่ข้อมูล Username & Password และ กด Connect
+![Mypic](PulseSecure/PS3.jpg) ![Mypic](PulseSecure/PS4.jpg)
