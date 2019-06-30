@@ -10,7 +10,6 @@ Pulse Secure มาจากกลุ่มผลิตภัณฑ์ SSL VPN/N
  
 ## Multi-factor Authentication (MFA)
 มีขั้นตอนการใช้งานดังนี้
-* Open programe Pulse secure client
+ * เปิดโปรแกรม Pulse secure client และ เพิ่มข้อมูลการเชื่อมต่อ เช่น name, server url
 ![Mypic](PulseSecure/PS1.jpg)
-
-* Input 
+![Mypic](PulseSecure/PS2.jpg)
